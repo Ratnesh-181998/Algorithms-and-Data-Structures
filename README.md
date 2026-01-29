@@ -1,4 +1,11 @@
-# Algorithms-and-Data-Structures
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Algorithms%20and%20Data%20Structures&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+
 ---
 # Competitive Programming
 
