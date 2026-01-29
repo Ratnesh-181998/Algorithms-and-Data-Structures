@@ -25,6 +25,12 @@
 
 </div>
 
+---
+
+# Coding Practice Platforms
+
+<img width="732" height="798" alt="image" src="https://github.com/user-attachments/assets/877740a2-f918-4fc0-8650-95ca6e96a153" />
+
 
 ---
 
