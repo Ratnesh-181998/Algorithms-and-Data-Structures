@@ -89,7 +89,11 @@
 <img width="875" height="790" alt="image" src="https://github.com/user-attachments/assets/a5413894-8fa3-4877-967d-df43cd6b0bce" />
 
 ## 5. LeetCode Profile
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ratnesh_1998/) 
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ratnesh_1998/)
+  
+<img width="1824" height="657" alt="image" src="https://github.com/user-attachments/assets/d68956a6-5c8f-484c-873d-60f5c19ccd93" />
+<img width="1834" height="802" alt="image" src="https://github.com/user-attachments/assets/3bf7e2b6-a967-49f5-b079-dd34eed37970" />
+<img width="608" height="833" alt="image" src="https://github.com/user-attachments/assets/186b2c4c-7abd-4dad-a99e-e558f299256e" />
 
 
 ---
@@ -99,9 +103,14 @@
 ## 6. CodeChef Profile
 - [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ratnesh_181998)
   
+<img width="1844" height="775" alt="image" src="https://github.com/user-attachments/assets/c69d836a-1368-4b15-b449-bbdc4260784e" />
+<img width="1228" height="831" alt="image" src="https://github.com/user-attachments/assets/5774e74e-c90b-41b1-9c9d-911abe7cb660" />
+
 
 ## 7. CodeForces Profile 
-- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ratnesh_181998) 
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ratnesh_181998)
+  
+<img width="1870" height="842" alt="image" src="https://github.com/user-attachments/assets/140c1688-2b72-4300-8bff-daa5f586a6bd" />
 
 ---
 
