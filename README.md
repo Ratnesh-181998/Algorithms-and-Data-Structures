@@ -52,7 +52,8 @@
 
 ---
 
-# Begnner Level (Learner)
+# Beginner Level (Learner)
+
 ## 1.HackerRank Profile
 - [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rattudacsit20211)
 
