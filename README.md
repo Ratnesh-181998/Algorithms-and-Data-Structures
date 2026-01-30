@@ -57,13 +57,20 @@
 ## 1.HackerRank Profile
 - [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rattudacsit20211)
 
+<img width="1803" height="829" alt="image" src="https://github.com/user-attachments/assets/d7f2a959-cdb8-4977-824a-5ebbe3be6ac1" />
+
   
 ## 2. HackerEarth Profile
 - [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ratnesh138/)
+  
+<img width="1867" height="782" alt="image" src="https://github.com/user-attachments/assets/821c0a4d-43aa-4f7a-9fae-3f31c5c9bb82" />
 
   
 ## 3. GeeksforGeeks Profile
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ratnesh1998)
+
+<img width="1432" height="757" alt="image" src="https://github.com/user-attachments/assets/2ecb7d87-b80c-4b6d-bedd-8c12249c3cc8" />
+<img width="1444" height="825" alt="image" src="https://github.com/user-attachments/assets/d93e0dd0-d3f3-40b6-8f98-9daa04575043" />
 
 ---
 
@@ -72,6 +79,14 @@
 ## 4. InterviewsBit Profile
 - [![InterviewBit](https://img.shields.io/badge/InterviewBit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/)
   
+<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/9b90b019-9690-44fc-bff1-864201ceaf1e" />
+<img width="1381" height="381" alt="image" src="https://github.com/user-attachments/assets/0447329e-d343-4920-8474-ba45f603e5ff" />
+<img width="1332" height="374" alt="image" src="https://github.com/user-attachments/assets/5bcfe744-2359-4538-a99d-715a57966273" />
+<img width="1357" height="370" alt="image" src="https://github.com/user-attachments/assets/a3855717-6fa1-4e44-a608-340e30e46ec7" />
+<img width="594" height="715" alt="image" src="https://github.com/user-attachments/assets/b52025b8-11e5-4829-83c4-f67b4c0f2201" />
+<img width="369" height="779" alt="image" src="https://github.com/user-attachments/assets/8e31b978-9abc-4d23-ade3-7d451d9357b2" />
+<img width="409" height="761" alt="image" src="https://github.com/user-attachments/assets/7c6c62a9-5612-443a-85b5-3756a600d559" />
+<img width="875" height="790" alt="image" src="https://github.com/user-attachments/assets/a5413894-8fa3-4877-967d-df43cd6b0bce" />
 
 ## 5. LeetCode Profile
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ratnesh_1998/) 
