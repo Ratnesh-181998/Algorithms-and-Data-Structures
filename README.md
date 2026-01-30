@@ -27,13 +27,6 @@
 
 ---
 
-# Coding Practice Platforms
-
-<img width="732" height="798" alt="image" src="https://github.com/user-attachments/assets/877740a2-f918-4fc0-8650-95ca6e96a153" />
-
-
----
-
 # 1. Problem‑solving frameworks
 
 • Understand constraints, optimize time/space complexity (Big O).
@@ -51,8 +44,48 @@
 • Linear: Arrays, Linked Lists, Stacks, Queues, Hash Maps.
 • Trees & Graphs: Binary Trees, BST, Heaps, Tries, Disjoint Sets.
 
+---
+
+# Coding Practice Platforms
+
+<img width="732" height="798" alt="image" src="https://github.com/user-attachments/assets/877740a2-f918-4fc0-8650-95ca6e96a153" />
+
+---
+
+# Begnner Level (Learner)
+## 1.HackerRank Profile
+- [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rattudacsit20211)
+
+  
+## 2. HackerEarth Profile
+- [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ratnesh138/)
+
+  
+## 3. GeeksforGeeks Profile
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ratnesh1998)
+
+---
+
+# Intermediate Level ( Interview /Placement Preparation)
+
+## 4. InterviewsBit Profile
+- [![InterviewBit](https://img.shields.io/badge/InterviewBit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/)
+  
+
+## 5. LeetCode Profile
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ratnesh_1998/) 
 
 
+---
+
+# Advanced Level (Competitive Programming)
+
+## 6. CodeChef Profile
+- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ratnesh_181998)
+  
+
+## 7. CodeForces Profile 
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ratnesh_181998) 
 
 ---
 
