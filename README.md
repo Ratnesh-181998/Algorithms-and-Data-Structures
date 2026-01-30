@@ -110,7 +110,8 @@
 ## 7. CodeForces Profile 
 - [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ratnesh_181998)
   
-<img width="1870" height="842" alt="image" src="https://github.com/user-attachments/assets/140c1688-2b72-4300-8bff-daa5f586a6bd" />
+<img width="1839" height="333" alt="image" src="https://github.com/user-attachments/assets/2276ce2b-cbb7-4dc2-bf0d-803965f0fd14" />
+
 
 ---
 
