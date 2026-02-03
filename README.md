@@ -55,18 +55,21 @@
 # Beginner Level (Learner)
 
 ## 1.HackerRank Profile
+- 1800+ Problems/Questions solved 
 - [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rattudacsit20211)
 
 <img width="1803" height="829" alt="image" src="https://github.com/user-attachments/assets/d7f2a959-cdb8-4977-824a-5ebbe3be6ac1" />
 
   
 ## 2. HackerEarth Profile
+- 300+ Problems/Questions solved 
 - [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ratnesh138/)
   
 <img width="1867" height="782" alt="image" src="https://github.com/user-attachments/assets/821c0a4d-43aa-4f7a-9fae-3f31c5c9bb82" />
 
   
 ## 3. GeeksforGeeks Profile
+- 1200+ Problems/Questions solved 
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ratnesh1998)
 
 <img width="1432" height="757" alt="image" src="https://github.com/user-attachments/assets/2ecb7d87-b80c-4b6d-bedd-8c12249c3cc8" />
@@ -75,7 +78,7 @@
 ---
 
 # Intermediate Level ( Interview /Placement Preparation)
-
+- 800+ Problems/Questions solved 
 ## 4. InterviewsBit Profile
 - [![InterviewBit](https://img.shields.io/badge/InterviewBit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/)
   
@@ -89,6 +92,7 @@
 <img width="875" height="790" alt="image" src="https://github.com/user-attachments/assets/a5413894-8fa3-4877-967d-df43cd6b0bce" />
 
 ## 5. LeetCode Profile
+- 1900+ Problems/Questions solved 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ratnesh_1998/)
   
 <img width="1824" height="657" alt="image" src="https://github.com/user-attachments/assets/d68956a6-5c8f-484c-873d-60f5c19ccd93" />
@@ -101,6 +105,7 @@
 # Advanced Level (Competitive Programming)
 
 ## 6. CodeChef Profile
+- 1800+ Problems/Questions solved 
 - [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ratnesh_181998)
   
 <img width="1844" height="775" alt="image" src="https://github.com/user-attachments/assets/c69d836a-1368-4b15-b449-bbdc4260784e" />
@@ -108,6 +113,7 @@
 
 
 ## 7. CodeForces Profile 
+- 100+ Problems/Questions solved 
 - [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ratnesh_181998)
   
 <img width="1839" height="333" alt="image" src="https://github.com/user-attachments/assets/2276ce2b-cbb7-4dc2-bf0d-803965f0fd14" />
