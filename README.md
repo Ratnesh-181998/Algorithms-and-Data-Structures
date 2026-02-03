@@ -8,7 +8,7 @@
 
 ---
 
-# Competitive Programming
+# Competitive Programming (Including all coding plateform's 5000+ Problems/Questions solved )
 
 <div align="center">
   
