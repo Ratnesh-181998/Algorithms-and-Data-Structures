@@ -27,6 +27,10 @@
 
 ---
 
+<img width="1586" height="1403" alt="image" src="https://github.com/user-attachments/assets/41e58683-82ed-4ad9-ae7d-7d584f112118" />
+
+---
+
 # 1. Problem‑solving frameworks
 
 • Understand constraints, optimize time/space complexity (Big O).
