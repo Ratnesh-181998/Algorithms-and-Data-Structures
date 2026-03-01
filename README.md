@@ -32,6 +32,26 @@
 
 ---
 
+# Check out my Github Profile!
+
+- Data Scientist | AI/ML | GenAI & Agentic AI | Scalable AI Systems | 1PB+ Data | Cloud 
+- Building and deploying production-grade AI/ML & LLM-based systems at scale with real business impact.
+- Experienced with petabyte-scale (1PB+) data, real-time pipelines, cloud deployments, and enterprise GenAI solutions (RAG, chatbots, vector search).
+
+# GitHub Profile : https://lnkd.in/grYZRHfe
+
+# Technical Social-Profiles : https://lnkd.in/gmf46Z9g
+
+# AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio : https://lnkd.in/gb_jqgGa
+
+# AI/ML & DE Portfolio : https://lnkd.in/gaCB592R
+
+# Data Science ,Machine Learning, MLOPS, Deep Learning , Neural Network, Computer Vision , NLP ,GEN AI , Machine Learning and Data Engineering System Design ( 1620+ Problem Solved ) : https://lnkd.in/g3pyER9Z
+
+# Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://lnkd.in/gETff4zX
+
+---
+
 # 1. Problem‑solving frameworks
 
 • Understand constraints, optimize time/space complexity (Big O).
