@@ -38,17 +38,19 @@
 - Building and deploying production-grade AI/ML & LLM-based systems at scale with real business impact.
 - Experienced with petabyte-scale (1PB+) data, real-time pipelines, cloud deployments, and enterprise GenAI solutions (RAG, chatbots, vector search).
 
-# GitHub Profile : https://lnkd.in/grYZRHfe
+### GitHub Profile : https://github.com/Ratnesh-181998
 
-# Technical Social-Profiles : https://lnkd.in/gmf46Z9g
+### Learning Profile : https://www.scaler.com/academy/profile/16d9756ebf65/
 
-# AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio : https://lnkd.in/gb_jqgGa
+### Technical Social-Profiles : https://github.com/Ratnesh-181998/Resume-and-Social-Profiles
 
-# AI/ML & DE Portfolio : https://lnkd.in/gaCB592R
+### AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio : https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work
 
-# Data Science ,Machine Learning, MLOPS, Deep Learning , Neural Network, Computer Vision , NLP ,GEN AI , Machine Learning and Data Engineering System Design ( 1620+ Problem Solved ) : https://lnkd.in/g3pyER9Z
+### AI/ML & DE Portfolio : https://share.streamlit.io/user/ratnesh-181998
 
-# Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://lnkd.in/gETff4zX
+### Data Science ,Machine Learning, MLOPS, Deep Learning , Neural Network, Computer Vision , NLP ,GEN AI , Machine Learning and Data Engineering System Design ( 1620+ Problem Solved ) : https://github.com/Ratnesh-181998/DSML
+
+### Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures
 
 ---
 
