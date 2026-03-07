@@ -54,6 +54,19 @@
 
 ---
 
+# [DSA Algorithm]()
+- Clear and structured DSA algorithm notes designed to help you understand core concepts and improve problem-solving skills. These notes cover fundamental algorithms, time complexity, and practical approaches used in coding interviews and real-world development.
+
+- ✅ Sorting Algorithms (Bubble, Selection, Merge, Quick)
+- ✅ Searching Techniques (Linear, Binary Search)
+- ✅ Recursion & Backtracking
+- ✅ Greedy Algorithms
+- ✅ Dynamic Programming
+- ✅ Graph Algorithms (BFS, DFS, Shortest Path)
+- ✅ Time & Space Complexity Analysis
+
+---
+
 # 1. Problem‑solving frameworks
 
 • Understand constraints, optimize time/space complexity (Big O).
