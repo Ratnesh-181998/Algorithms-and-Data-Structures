@@ -54,7 +54,7 @@
 
 ---
 
-# [DSA Algorithm]()
+# [DSA Algorithm](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures/blob/main/%F0%9D%97%97%F0%9D%97%A6%F0%9D%97%94%20%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B4%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BA%20%F0%9D%97%A1%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%80%20%E2%80%93%20%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B2%20%F0%9D%97%9A%F0%9D%98%82%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%B2%20%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%20%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84%20%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB.pdf)
 - Clear and structured DSA algorithm notes designed to help you understand core concepts and improve problem-solving skills. These notes cover fundamental algorithms, time complexity, and practical approaches used in coding interviews and real-world development.
 
 - ✅ Sorting Algorithms (Bubble, Selection, Merge, Quick)
