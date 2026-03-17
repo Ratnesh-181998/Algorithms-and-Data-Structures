@@ -65,6 +65,11 @@
 - ✅ Graph Algorithms (BFS, DFS, Shortest Path)
 - ✅ Time & Space Complexity Analysis
 
+<img width="947" height="1222" alt="image" src="https://github.com/user-attachments/assets/67d61af8-5d84-4bcc-97cf-7c3700b3666e" />
+<img width="894" height="1250" alt="image" src="https://github.com/user-attachments/assets/af8bf87a-b533-4a83-87ee-2d73e1c75499" />
+<img width="897" height="710" alt="image" src="https://github.com/user-attachments/assets/3935ced1-cf37-4275-bdd6-3efb020aefc7" />
+
+
 ---
 
 # 1. Problem‑solving frameworks
