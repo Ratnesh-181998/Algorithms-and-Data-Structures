@@ -83,11 +83,44 @@
 
 • Core: Sorting (Merge/Quick), Searching (Binary Search).
 • Advanced: Dynamic Programming (DP), Greedy, Backtracking, Graph Algorithms (BFS/DFS, Dijkstra).
+<img width="1191" height="1340" alt="image" src="https://github.com/user-attachments/assets/989ea469-0862-4ee3-9312-a2d3b4d21de0" />
+<img width="1151" height="1335" alt="image" src="https://github.com/user-attachments/assets/295654d2-3cfc-4b99-a909-d10d6861ab64" />
+
+## Algo Short Note 
+<img width="973" height="1301" alt="image" src="https://github.com/user-attachments/assets/b0df42db-d55f-40bd-8448-7d6afd724325" />
+<img width="1012" height="1285" alt="image" src="https://github.com/user-attachments/assets/4392406f-5acd-4e6b-8609-9365b897bd29" />
+<img width="989" height="1287" alt="image" src="https://github.com/user-attachments/assets/263d5691-02f2-46da-b473-995193700a17" />
+<img width="963" height="1339" alt="image" src="https://github.com/user-attachments/assets/f3772db9-c615-4632-86d1-ab6b823b0dd7" />
+<img width="997" height="1329" alt="image" src="https://github.com/user-attachments/assets/ae28b2c3-c21f-4863-a1d8-09cac1878174" />
+<img width="962" height="1263" alt="image" src="https://github.com/user-attachments/assets/746456aa-47b8-4f52-9629-ccbafcbf5c91" />
+<img width="943" height="1268" alt="image" src="https://github.com/user-attachments/assets/ba04401e-3476-4819-877d-891374b4cd50" />
+<img width="913" height="1237" alt="image" src="https://github.com/user-attachments/assets/77c2f024-1ee5-44f6-a912-1a9cff89a9ea" />
+<img width="962" height="1283" alt="image" src="https://github.com/user-attachments/assets/dca80a1c-fd27-4511-b991-06fcd6bceeb5" />
+<img width="967" height="1307" alt="image" src="https://github.com/user-attachments/assets/ff1f6a6b-373d-4511-bfc7-eb2f81030f94" />
+<img width="1027" height="1364" alt="image" src="https://github.com/user-attachments/assets/dddd0fd3-8404-4a57-ab45-f18803429c1f" />
+<img width="754" height="1083" alt="image" src="https://github.com/user-attachments/assets/72a3b134-4bd7-4047-a8f1-66ece9789eb2" />
+<img width="774" height="1021" alt="image" src="https://github.com/user-attachments/assets/4e3e8c59-457f-4db6-ba95-d907e237f061" />
+<img width="745" height="716" alt="image" src="https://github.com/user-attachments/assets/d11ad4ea-431d-40ca-8fbe-6a326d575491" />
+<img width="740" height="994" alt="image" src="https://github.com/user-attachments/assets/127694dd-f8e6-4c40-a358-4ab032435032" />
+<img width="746" height="1030" alt="image" src="https://github.com/user-attachments/assets/41e6b24c-5c5f-419c-b412-b913c79b257a" />
+<img width="712" height="837" alt="image" src="https://github.com/user-attachments/assets/033a2096-f763-4c69-8499-c2133e4ee40c" />
+<img width="751" height="1008" alt="image" src="https://github.com/user-attachments/assets/dd2649e5-d71e-4531-995a-63953f5c24c7" />
+<img width="758" height="1054" alt="image" src="https://github.com/user-attachments/assets/0c0dfb20-cdb5-48cf-af68-eb0633f45e36" />
+<img width="771" height="1067" alt="image" src="https://github.com/user-attachments/assets/91224ea9-331a-43d4-a0f0-c77e4eac87a9" />
+<img width="763" height="1059" alt="image" src="https://github.com/user-attachments/assets/c7f71406-2fa6-4345-9233-de64f41af644" />
+<img width="725" height="986" alt="image" src="https://github.com/user-attachments/assets/e466c1e0-6a29-4247-969b-b99173bd3e3a" />
+<img width="726" height="1000" alt="image" src="https://github.com/user-attachments/assets/99dacf4c-f8f2-4a25-841f-92b388b7e0c9" />
+<img width="754" height="999" alt="image" src="https://github.com/user-attachments/assets/2eae520a-3560-427a-9340-4caff0cd1c17" />
+<img width="776" height="998" alt="image" src="https://github.com/user-attachments/assets/3e922bd9-c609-49cf-ae72-62dbb326202b" />
+<img width="761" height="873" alt="image" src="https://github.com/user-attachments/assets/d143f109-7593-4b11-9192-b51befe51a99" />
+
 
 ---
 # 3. Data Structures
 • Linear: Arrays, Linked Lists, Stacks, Queues, Hash Maps.
 • Trees & Graphs: Binary Trees, BST, Heaps, Tries, Disjoint Sets.
+<img width="1208" height="1341" alt="image" src="https://github.com/user-attachments/assets/30c91f58-270c-4840-98d3-9df8ed3b971f" />
+<img width="994" height="1338" alt="image" src="https://github.com/user-attachments/assets/82fde0bd-ed3d-4db2-97bd-ffabccb81c00" />
 
 ---
 
