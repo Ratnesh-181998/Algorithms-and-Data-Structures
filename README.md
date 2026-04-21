@@ -52,6 +52,10 @@
 
 ### Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures
 
+### [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
+
+### https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019
+
 ---
 
 # [DSA Algorithm](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures/blob/main/%F0%9D%97%97%F0%9D%97%A6%F0%9D%97%94%20%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B4%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BA%20%F0%9D%97%A1%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%80%20%E2%80%93%20%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B2%20%F0%9D%97%9A%F0%9D%98%82%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%B2%20%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%20%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84%20%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB.pdf)
